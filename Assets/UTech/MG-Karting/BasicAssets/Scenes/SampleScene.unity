@@ -2352,6 +2352,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8373069205134649904, guid: 1c994073ac1d5445695ce53ec5195532,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c994073ac1d5445695ce53ec5195532, type: 3}
 --- !u!1001 &321836945
@@ -3127,7 +3132,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -4786,7 +4791,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -5456,7 +5461,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -6401,6 +6406,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8373069205134649904, guid: 1c994073ac1d5445695ce53ec5195532,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c994073ac1d5445695ce53ec5195532, type: 3}
 --- !u!4 &743735463 stripped
@@ -6927,6 +6937,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ModularTrackCurveLarge (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
@@ -7512,7 +7527,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -7734,7 +7749,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -7814,7 +7829,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -8218,7 +8233,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -8411,7 +8426,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -8587,6 +8602,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8373069205134649904, guid: 1c994073ac1d5445695ce53ec5195532,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c994073ac1d5445695ce53ec5195532, type: 3}
@@ -8818,7 +8838,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -9913,7 +9933,7 @@ PrefabInstance:
     - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
@@ -10289,7 +10309,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1175779212}
-  m_LocalRotation: {x: 0.038215775, y: 0.00000003631285, z: -0.00000050058406, w: 0.99926955}
+  m_LocalRotation: {x: 0.038215775, y: 0.000000036312855, z: -0.00000050058406, w: 0.99926955}
   m_LocalPosition: {x: 16, y: 2.05, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -10750,6 +10770,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ModularTrackCurveLarge (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10823,6 +10848,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ModularTrackCurveLarge (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
@@ -13476,6 +13506,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5733566958665236664, guid: 7973c59434836422cbd71f26d6c1293e,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7973c59434836422cbd71f26d6c1293e, type: 3}
 --- !u!1001 &1477802855
@@ -14367,7 +14402,7 @@ PrefabInstance:
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.97
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
@@ -14377,27 +14412,27 @@ PrefabInstance:
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.56
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.00003998737
+      value: -0.0019005191
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.014701975
+      value: 0.70710427
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0027195625
+      value: -0.0019499072
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9998883
+      value: 0.70710415
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
@@ -14407,17 +14442,17 @@ PrefabInstance:
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0.009000001
+      value: 0.004
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -1.6850001
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0.312
+      value: -0.312
       objectReference: {fileID: 0}
     - target: {fileID: 6480771852515576468, guid: 441945e8a4aa644b3ac6600c6712f79c,
         type: 3}
@@ -14674,7 +14709,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -15070,6 +15105,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ModularTrackCurveLarge (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15385,6 +15425,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ModularTrackCurveLarge (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
@@ -15791,6 +15836,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ModularTrackCurveLarge (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
@@ -16307,6 +16357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ModularTrackCurveLarge (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16439,7 +16494,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -17163,7 +17218,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -17768,6 +17823,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ModularTrackCurveLarge
       objectReference: {fileID: 0}
+    - target: {fileID: 4478061287446689989, guid: 06604f26f581c4de08c3f45572924c7d,
+        type: 3}
+      propertyPath: bounciness
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 6602977218683986153, guid: 06604f26f581c4de08c3f45572924c7d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18197,7 +18257,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2110853102}
-  m_LocalRotation: {x: 0.038215775, y: 0.00000003631285, z: -0.00000050058406, w: 0.99926955}
+  m_LocalRotation: {x: 0.038215775, y: 0.000000036312855, z: -0.00000050058406, w: 0.99926955}
   m_LocalPosition: {x: 16, y: 2.05, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -18372,7 +18432,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
@@ -18845,7 +18905,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 1579282987816156492, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
@@ -19079,7 +19139,7 @@ PrefabInstance:
     - target: {fileID: 1644974464755198482, guid: 941fac9249b6442cdb2d3f23472128e2,
         type: 3}
       propertyPath: bounciness
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
